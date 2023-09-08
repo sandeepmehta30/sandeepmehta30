@@ -1,4 +1,3 @@
-[MasterHead](https://media.licdn.com/dms/image/C4E12AQErJsYayDutVg/article-cover_image-shrink_600_2000/0/1651835064260?e=2147483647&v=beta&t=PD7NGwk2Vh3xOA9gxf8uUsLsAt-Bvak1Hm3ruoGSxuY)
 
 <h1 align="center">Hi 👋, I'm SANDEEP KUMAR MEHTA</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
